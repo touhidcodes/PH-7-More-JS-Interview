@@ -1,0 +1,5 @@
+JS V8 engine helps to run code in browser
+1. Google open source
+2. Written in C++ Language
+
+Source code > parser > AST (Abstract Syntax Tree) > Interpreter Ignition > Compiler Turbo Fan > Optimized Machine Code > ByteCode
