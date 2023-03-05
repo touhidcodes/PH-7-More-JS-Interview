@@ -1,0 +1,9 @@
+Code stored in execution context
+
+Two kinds of execution context:
+1. GEC (Global Execution Context)
+2. FEC (Function Execution Context)
+
+Execution Context is created in two phases:
+1. Creation phases
+2. Execution Phase
