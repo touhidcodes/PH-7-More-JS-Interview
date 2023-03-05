@@ -1,0 +1,8 @@
+Summery of JS:
+
+1. JS is High Abstraction Language
+2. JS is Automated Garbage Collector
+3. JS is JIT (Just In Time) Compiled
+4. JS is Multi Paradigm Language
+5. JS is Prototype Based Language
+6. JS is dynamically Typed Language
