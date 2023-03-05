@@ -1,0 +1,2 @@
+Synchronous = Runes code sequentially
+Asynchronous = Runes code non sequentially (fetch, setTimeout())
